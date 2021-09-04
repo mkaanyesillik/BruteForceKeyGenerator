@@ -1,0 +1,10 @@
+C:\Users\mkaan\source\repos\BruteForceKeyGenerator\BruteForceKeyGenerator\bin\Debug\BruteForceKeyGenerator.exe.config
+C:\Users\mkaan\source\repos\BruteForceKeyGenerator\BruteForceKeyGenerator\bin\Debug\BruteForceKeyGenerator.exe
+C:\Users\mkaan\source\repos\BruteForceKeyGenerator\BruteForceKeyGenerator\bin\Debug\BruteForceKeyGenerator.pdb
+C:\Users\mkaan\source\repos\BruteForceKeyGenerator\BruteForceKeyGenerator\obj\Debug\BruteForceKeyGenerator.csprojResolveAssemblyReference.cache
+C:\Users\mkaan\source\repos\BruteForceKeyGenerator\BruteForceKeyGenerator\obj\Debug\BruteForceKeyGenerator.Form1.resources
+C:\Users\mkaan\source\repos\BruteForceKeyGenerator\BruteForceKeyGenerator\obj\Debug\BruteForceKeyGenerator.Properties.Resources.resources
+C:\Users\mkaan\source\repos\BruteForceKeyGenerator\BruteForceKeyGenerator\obj\Debug\BruteForceKeyGenerator.csproj.GenerateResource.Cache
+C:\Users\mkaan\source\repos\BruteForceKeyGenerator\BruteForceKeyGenerator\obj\Debug\BruteForceKeyGenerator.csproj.CoreCompileInputs.cache
+C:\Users\mkaan\source\repos\BruteForceKeyGenerator\BruteForceKeyGenerator\obj\Debug\BruteForceKeyGenerator.exe
+C:\Users\mkaan\source\repos\BruteForceKeyGenerator\BruteForceKeyGenerator\obj\Debug\BruteForceKeyGenerator.pdb
