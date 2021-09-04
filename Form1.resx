@@ -120,4 +120,7 @@
   <metadata name="backgroundWorker1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
+  <data name="lblAciklama.Text" xml:space="preserve">
+    <value>İçermesi Gereken Karakterleri Yukarı Yazınız.Basit bir program bu. Örn:açrf!256 Girdiğiniz karakterin toplam sayısı kadar potansiyel her kombinasyonu verir yani abcd girdiyseniz 4 karakterli her kombinasyonu elde edersiniz.</value>
+  </data>
 </root>

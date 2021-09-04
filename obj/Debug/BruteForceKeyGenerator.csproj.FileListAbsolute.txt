@@ -8,3 +8,13 @@ C:\Users\mkaan\source\repos\BruteForceKeyGenerator\BruteForceKeyGenerator\obj\De
 C:\Users\mkaan\source\repos\BruteForceKeyGenerator\BruteForceKeyGenerator\obj\Debug\BruteForceKeyGenerator.csproj.CoreCompileInputs.cache
 C:\Users\mkaan\source\repos\BruteForceKeyGenerator\BruteForceKeyGenerator\obj\Debug\BruteForceKeyGenerator.exe
 C:\Users\mkaan\source\repos\BruteForceKeyGenerator\BruteForceKeyGenerator\obj\Debug\BruteForceKeyGenerator.pdb
+E:\Yazılım\Masaüstü Projeler\BruteForceKeyGenerator\BruteForceKeyGenerator\bin\Debug\BruteForceKeyGenerator.exe.config
+E:\Yazılım\Masaüstü Projeler\BruteForceKeyGenerator\BruteForceKeyGenerator\bin\Debug\BruteForceKeyGenerator.exe
+E:\Yazılım\Masaüstü Projeler\BruteForceKeyGenerator\BruteForceKeyGenerator\bin\Debug\BruteForceKeyGenerator.pdb
+E:\Yazılım\Masaüstü Projeler\BruteForceKeyGenerator\BruteForceKeyGenerator\obj\Debug\BruteForceKeyGenerator.csproj.AssemblyReference.cache
+E:\Yazılım\Masaüstü Projeler\BruteForceKeyGenerator\BruteForceKeyGenerator\obj\Debug\BruteForceKeyGenerator.Properties.Resources.resources
+E:\Yazılım\Masaüstü Projeler\BruteForceKeyGenerator\BruteForceKeyGenerator\obj\Debug\BruteForceKeyGenerator.csproj.GenerateResource.cache
+E:\Yazılım\Masaüstü Projeler\BruteForceKeyGenerator\BruteForceKeyGenerator\obj\Debug\BruteForceKeyGenerator.csproj.CoreCompileInputs.cache
+E:\Yazılım\Masaüstü Projeler\BruteForceKeyGenerator\BruteForceKeyGenerator\obj\Debug\BruteForceKeyGenerator.exe
+E:\Yazılım\Masaüstü Projeler\BruteForceKeyGenerator\BruteForceKeyGenerator\obj\Debug\BruteForceKeyGenerator.pdb
+E:\Yazılım\Masaüstü Projeler\BruteForceKeyGenerator\BruteForceKeyGenerator\obj\Debug\BruteForceKeyGenerator.BruteForceGenerator.resources
